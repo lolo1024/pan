@@ -101,7 +101,7 @@ const handleCopySongUrl = async (song) => {
             <a href="/">
                 <img class="w-[40px] h-[40px] sm:w-[40px] sm:h-[40px]" src="@/assets/my-logo.png" alt="logo">
             </a>
-            <h1 class="text-[18px] sm:text-[22px] font-serif font-bold dark:text-white ">爱盼-音乐搜索下载</h1>
+            <h1 class="text-[18px] sm:text-[22px] font-serif font-bold dark:text-white ">Lolo-音乐搜索下载</h1>
         </div>
 
         <div class="flex flex-row items-center justify-center gap-2 mt-5">
